@@ -1,4 +1,4 @@
-# Implementation of a Contextual Chatbot in PyTorch.  
+# Implementation of a Contextual Chatbot for Restaurant in PyTorch.  
 Simple chatbot implementation with PyTorch. 
 
 - The implementation should be easy to follow for beginners and provide a basic understanding of chatbots.
